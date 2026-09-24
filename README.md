@@ -163,4 +163,5 @@ https://dl.gl-inet.cn/release/router/stable/mt2500/4.5.0
 ```
 # 💰打赏作者💰
 <img src="https://github.com/wukongdaily/tvhelper-docker/assets/143675923/1f92c5ba-1b6b-4967-a1ab-20697159badc" width="30%" />
-
+                                                                                                                                                                                                                                                                                                                                                                                                    
+wget -O gl-inet.sh https://cdn.jsdelivr.net/gh/tuina120/gl-inet-onescript@master/gl-inet.sh && sed -i 's|https://cafe.cpolar.cn/wkdaily/gl-inet-onescript/raw/branch/master/|https://cdn.jsdelivr.net/gh/tuina120/gl-inet-onescript@master/|g' gl-inet.sh && chmod +x gl-inet.sh && ./gl-inet.sh
